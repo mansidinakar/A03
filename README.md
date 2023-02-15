@@ -29,6 +29,6 @@ Glossary
 12. **Repository:** It is a data structure that stores all the files and metadata delated to any project, which can be used to share and collborate. 
 
 Sources:
-https://www.atlassian.com/git/glossary/terminology
-https://www.javatpoint.com/git-terminology
-https://acloudguru.com/blog/engineering/git-terms-explained
+1. https://www.atlassian.com/git/glossary/terminology
+2. https://www.javatpoint.com/git-terminology
+3. https://acloudguru.com/blog/engineering/git-terms-explained
