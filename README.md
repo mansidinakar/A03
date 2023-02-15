@@ -27,3 +27,8 @@ Glossary
 10. **Pull:** It is the act of downloading changes made in the repository to the local machine and merging it with the local branch.
 11. **Remote:** It is used to refer to a remote repository that people can use to collaborate with each other and share codes.
 12. **Repository:** It is a data structure that stores all the files and metadata delated to any project, which can be used to share and collborate. 
+
+Sources:
+https://www.atlassian.com/git/glossary/terminology
+https://www.javatpoint.com/git-terminology
+https://acloudguru.com/blog/engineering/git-terms-explained
